@@ -47,7 +47,7 @@ jQuery(function($) {
 
 	if ( $( '#map' ).length > 0 ) {
 		
-      var eventmap = {lat: 40.742964, lng: -73.992277};
+      var eventmap = {lat: 41.383786, lng: 2.166775};
 
       $('#map')
       .gmap3({
@@ -63,7 +63,7 @@ jQuery(function($) {
 
       .infowindow({
          position: eventmap,
-         content: "NYC Seminar and Conference Center, New York"
+         content: "Centre de Cultura Contemporània de Barcelona"
       })
 
       .then(function (infowindow) {
