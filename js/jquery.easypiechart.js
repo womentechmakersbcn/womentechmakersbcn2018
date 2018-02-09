@@ -217,7 +217,7 @@ var CanvasRenderer = function(el, options) {
 //Change bar color
 var EasyPieChart = function(el, opts) {
 	var defaultOptions = {
-		barColor: '#ff0763',
+		barColor: '#308AF6',
 		trackColor: '#dedede',
 		scaleColor: '#fff',
 		scaleLength: 5,
