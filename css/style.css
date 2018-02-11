@@ -3115,6 +3115,30 @@ label {
     font-weight: 700;
 }
 
+/* Custom
+================================================== */
+
 .sponsor-logo-div {
     margin:60px 0;
+}
+
+.ts-facts-networking-title {
+    margin-top: 16.2px !important;
+}
+
+.one-logo {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 320px) {
+    .footer-logo img {
+        width: 300px;
+    }
+}
+
+@media (max-width: 360px) {
+    .footer-logo img {
+        width: 300px;
+    }
 }
