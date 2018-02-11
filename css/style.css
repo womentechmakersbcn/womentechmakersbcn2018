@@ -3132,6 +3132,21 @@ label {
     justify-content: center;
 }
 
+.logo-banner {
+    width: 50%;
+}
+
+.lema-logo {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 45px
+}
+
+.info-banner {
+    font-weight: lighter;
+    font-size: 35px
+}
+
 @media (max-width: 320px) {
     .footer-logo img {
         width: 300px;
@@ -3143,3 +3158,4 @@ label {
         width: 300px;
     }
 }
+
