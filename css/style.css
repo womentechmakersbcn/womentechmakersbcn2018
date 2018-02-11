@@ -1916,6 +1916,7 @@ ul.navbar-nav > li:hover > a{
     max-width: 750px;
     margin: 0 auto;
     background: #00E7B5;
+    color: white;
 }
 .sponsor-logo {
     margin: 60px 0;
